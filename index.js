@@ -1,1 +1,1 @@
-module.exports = require('./lib/lilo')
+module.exports = require('./lib/assistant-lilo')
