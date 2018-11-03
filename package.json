@@ -1,12 +1,16 @@
 {
-  "name": "assistant-template",
+  "name": "assistant-lilo",
   "version": "3.0.0",
-  "description": "Exemple de la structure d'un plugin",
-  "author": "aymkdn",
-  "main": "template.js",
-  "repository": "https://github.com/Aymkdn/assistant-template/",
+  "description": "Plugin pour le potager connecté Lilo",
+  "author": "Jérémie Zarca",
+  "main": "index.js",
+  "repository": "https://github.com/jzarca01/assistant-lilo/",
   "license": "MIT",
+  "scripts": {
+    "postinstall": "./lilo-postinstall.sh"
+  },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "lilo": "https://github.com/jzarca01/LILO"
   }
 }
