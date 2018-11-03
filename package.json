@@ -7,7 +7,7 @@
   "repository": "https://github.com/jzarca01/assistant-lilo/",
   "license": "MIT",
   "scripts": {
-    "preinstall": "./lilo-postinstall.sh"
+    "preinstall": "./lilo-preinstall.sh"
   },
   "dependencies": {
     "axios": "^0.18.0",
