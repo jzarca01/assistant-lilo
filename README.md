@@ -5,7 +5,7 @@ Ce plugin de [`assistant-plugins`](https://aymkdn.github.io/assistant-plugins/) 
 **ATTENTION**, il y a plusieurs restrictions pour utiliser ce plugin :
   - faire tourner `assistant-plugins` sur une machine Linux
   - avoir une connectivité Bluetooth sur cette machine
-  - avoir un Node JS supérieur ou égal à la version 8
+  - avoir NodeJS installé en version supérieure ou égale à 8
 
 ## Installation
 
@@ -46,7 +46,7 @@ Par exemple, pour commencer l'éclairage à 12h00 et le terminer à 23h59, on in
 
 Des applets ont été créés et peuvent être utilisées :
 
-- Allume la lumière --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
-- Eteins la lumière --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
-- Mode weekend --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
-- Mode semaine --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
+- [Allume la lumière](https://ifttt.com/applets/f39jPDYZ-assistant-plugins-allume-lilo) --> https://ifttt.com/applets/f39jPDYZ-assistant-plugins-allume-lilo
+- [Éteins la lumière](https://ifttt.com/applets/UMDezSUs-assistant-plugins-eteins-lilo) --> https://ifttt.com/applets/UMDezSUs-assistant-plugins-eteins-lilo
+- [Mode weekend](https://ifttt.com/applets/BdtjD2RA-assistant-plugins-mets-lilo-en-mode-weekend) --> https://ifttt.com/applets/BdtjD2RA-assistant-plugins-mets-lilo-en-mode-weekend
+- [Mode semaine](https://ifttt.com/applets/VqBzdVsc-assistant-plugins-mets-lilo-en-mode-semaine) --> https://ifttt.com/applets/VqBzdVsc-assistant-plugins-mets-lilo-en-mode-semaine
