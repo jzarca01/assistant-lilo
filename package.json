@@ -1,8 +1,8 @@
 {
   "name": "assistant-lilo",
   "version": "1.0.0",
-  "description": "Plugin pour le potager connecté Lilo",
-  "author": "Jérémie Zarca",
+  "description": "Un plugin pour contrôler le potager connecté Lilo pour assistant-plugins",
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
   "repository": "https://github.com/jzarca01/assistant-lilo/",
   "license": "MIT",
