@@ -1,6 +1,6 @@
 {
   "name": "assistant-lilo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Un plugin pour contrôler le potager connecté Lilo pour assistant-plugins",
   "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "preinstall": "./lilo-preinstall.sh"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "lilo": "https://github.com/jzarca01/LILO"
   }
 }
