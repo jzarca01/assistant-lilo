@@ -10,7 +10,7 @@
     "preinstall": "./lilo-preinstall.sh"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "lilo": "https://github.com/jzarca01/LILO"
   }
 }
